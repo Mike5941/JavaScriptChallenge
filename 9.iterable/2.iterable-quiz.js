@@ -1,7 +1,7 @@
 // [Symbol.iterator](): Iterator{ next(): {value, done}};
-
+//
 // 0부터 10이하까지 숫자의 2배를  순회하는 Iterator 만들기
-
+//
 // const multiple = {
 //   [Symbol.iterator]() {
 //     const max = 10;
